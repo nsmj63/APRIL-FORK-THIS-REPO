@@ -7,3 +7,4 @@
 - Nathan Schneider
 - Andrei Ionita :P
 - Jonathan Owolabi
+- Alin Ivan
