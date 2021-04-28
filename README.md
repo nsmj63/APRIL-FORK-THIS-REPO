@@ -1,13 +1,6 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-<<<<<<< HEAD
-<<<<<<< HEAD
-- Amandeep Bassi
-=======
-- Oliver Dillon
->>>>>>> upstream/main
-=======
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
@@ -15,8 +8,15 @@
 - Andrei Ionita :P
 - Jonathan Owolabi
 - Alin Ivan
-<<<<<<< HEAD
->>>>>>> 1f6f04a97fc0e1b807c649eaf573130b81360aac
-=======
 - Asshwin Mugundharajah
->>>>>>> 7b78137101c1cd750a57c71acbf945da37ca9598
+- Matthew Holmes
+- Raihan Ali
+- Timur Jalilov
+- Scott Stevens
+- Richard Redman
+- Haaris Moghal
+- James Barnett
+- Shameer Dar
+- Ethem Bozkurt
+- Kevin Doan.
+- Amandeep Bassi
