@@ -19,3 +19,4 @@
 - Shameer Dar
 - Ethem Bozkurt
 - Kevin Doan.
+- Amandeep Bassi
