@@ -1,9 +1,6 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-<<<<<<< HEAD
-- Kevin Doan.
-=======
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
@@ -12,4 +9,13 @@
 - Jonathan Owolabi
 - Alin Ivan
 - Asshwin Mugundharajah
->>>>>>> 7b78137101c1cd750a57c71acbf945da37ca9598
+- Matthew Holmes
+- Raihan Ali
+- Timur Jalilov
+- Scott Stevens
+- Richard Redman
+- Haaris Moghal
+- James Barnett
+- Shameer Dar
+- Ethem Bozkurt
+- Kevin Doan.
