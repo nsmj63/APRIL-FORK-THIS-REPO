@@ -2,3 +2,4 @@
 
 - Nick Johnson
 - Andrei Ionita :P
+- Oliver Dillon
