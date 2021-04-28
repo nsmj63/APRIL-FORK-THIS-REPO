@@ -1,10 +1,6 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-<<<<<<< HEAD
-- Scott Stevens
--
-=======
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
@@ -12,4 +8,8 @@
 - Andrei Ionita :P
 - Jonathan Owolabi
 - Alin Ivan
->>>>>>> upstream/main
+- Asshwin Mugundharajah
+- Matthew Holmes
+- Raihan Ali
+- Timur Jalilov
+- Scott Stevens
