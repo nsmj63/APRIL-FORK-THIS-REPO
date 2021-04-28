@@ -1,9 +1,6 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-<<<<<<< HEAD
-- Haaris Moghal
-=======
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
@@ -11,4 +8,10 @@
 - Andrei Ionita :P
 - Jonathan Owolabi
 - Alin Ivan
->>>>>>> 1f6f04a97fc0e1b807c649eaf573130b81360aac
+- Asshwin Mugundharajah
+- Matthew Holmes
+- Raihan Ali
+- Timur Jalilov
+- Scott Stevens
+- Richard Redman
+- Haaris Moghal
