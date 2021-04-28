@@ -1,5 +1,7 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-- Andrei Ionita :P
 - Oliver Dillon
+- Andrew D McCall
+- Gwendolen Old
+- Andrei Ionita :P
