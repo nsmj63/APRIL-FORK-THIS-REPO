@@ -1,9 +1,6 @@
 # APRIL-FORK-THIS-REPO
 
 - Nick Johnson
-<<<<<<< HEAD
-- Timur Jalilov
-=======
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
@@ -11,13 +8,7 @@
 - Andrei Ionita :P
 - Jonathan Owolabi
 - Alin Ivan
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1f6f04a97fc0e1b807c649eaf573130b81360aac
-=======
-- Asshwin Mugundharajah
->>>>>>> 7b78137101c1cd750a57c71acbf945da37ca9598
-=======
 - Asshwin Mugundharajah
 - Matthew Holmes
->>>>>>> 72f2a2a09590d5887434767fd86074f406eb0fc8
+- Raihan Ali
+- Timur Jalilov
