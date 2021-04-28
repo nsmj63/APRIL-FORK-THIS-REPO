@@ -9,4 +9,8 @@
 - Jonathan Owolabi
 - Alin Ivan
 - Asshwin Mugundharajah
+- Matthew Holmes
+- Raihan Ali
+- Timur Jalilov
+- Scott Stevens
 - Richard Redman
