@@ -16,3 +16,4 @@
 - Richard Redman
 - Haaris Moghal
 - James Barnett
+- Shameer Dar
