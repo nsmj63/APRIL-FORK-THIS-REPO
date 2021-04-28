@@ -4,3 +4,4 @@
 - Oliver Dillon
 - Andrew D McCall
 - Gwendolen Old
+- Nathan Schneider
