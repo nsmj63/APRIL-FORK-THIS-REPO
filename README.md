@@ -15,3 +15,4 @@
 - Scott Stevens
 - Richard Redman
 - Haaris Moghal
+- James Barnett
