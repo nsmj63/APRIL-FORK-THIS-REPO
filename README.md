@@ -14,3 +14,4 @@
 - Timur Jalilov
 - Scott Stevens
 - Richard Redman
+- Haaris Moghal
